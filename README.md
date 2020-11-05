@@ -19,9 +19,10 @@ Email   : std138300@ac.eap.gr
 
 ### Work Experience
 
-**2018 - Present :** *Business Advisor*, Vodafone Greece
+**2018 - Present :** *IT expert*
 
-> -Helping Customers with their Telecoms , IT and Digital Strategy
 
-**2016 - 2018 :** *Shop Manager*, Vodafone Greece
+**2010 - 2016 :** *IT admin*, Municipality of Amaroussion
+
+> -IT and Digital Strategy
 
