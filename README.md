@@ -15,14 +15,19 @@ Email   : std138300@ac.eap.gr
 
 **2019 - Present :** Pervasive and Mobile Computing Systems MSc , Hellenic Open University
 
+> -SDY
+
 **2010 - 2017    :** Department of Computer Science , Hellenic Open University
+
+> -PLH
 
 ### Work Experience
 
 **2018 - Present :** *IT expert*
 
+> -IT dept
 
 **2010 - 2016 :** *IT admin*, Municipality of Amaroussion
 
-> -IT and Digital Strategy
+> -IT and Digital dept
 
