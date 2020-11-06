@@ -11,7 +11,7 @@ Phone   : **+30 694 2815 544**
 Email   : std138300@ac.eap.gr
 
 
-### Education
+## Education
 
 **2019 - Present :** Pervasive and Mobile Computing Systems MSc , Hellenic Open University
 
@@ -21,7 +21,7 @@ Email   : std138300@ac.eap.gr
 
 > -PLH
 
-### Work Experience
+## Work Experience
 
 **2018 - Present :** *IT expert*
 
@@ -31,7 +31,7 @@ Email   : std138300@ac.eap.gr
 
 > -IT and Digital dept
 
-### Technical Skills
+## Technical Skills
 
 | Programming language | level | 
 | ------------- | ------------- | 
