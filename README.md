@@ -47,6 +47,6 @@ Email   : std138300@ac.eap.gr
 | C++ | Very Good  | 
 | Python  | Good | 
 
-## Seminars attending (x completed, not completed)
+## Seminars attending
 - [x] Java
-- [ ] Arduino
+- [x] Arduino
