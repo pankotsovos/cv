@@ -50,3 +50,6 @@ Email   : std138300@ac.eap.gr
 ## Seminars attending
 - [x] Java
 - [x] Arduino
+
+## Hobbies
+![Image photo](https://cdn.icon-icons.com/icons2/1551/PNG/512/if-traveling-icon-flat-outline08-3405109_107381.png)
