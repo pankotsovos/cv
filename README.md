@@ -2,7 +2,7 @@
 ## IT Expert 
 <img src="https://github.com/pankotsovos/cv/blob/main/pan_kots.jpg" height="170" width="150">
 
-### Personal Information
+## Personal Information
 
 Address : Isionis 17 , Athens Greece
 
