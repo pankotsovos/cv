@@ -15,7 +15,7 @@ Email   : std138300@ac.eap.gr
 
 **2019 - Present :** Pervasive and Mobile Computing Systems MSc , Hellenic Open University
 
-> -SDY
+> - ![SDY](https://www.eap.gr/education/postgraduate/annual/mobile-and-diffuse-computing-systems/)
 
 **2010 - 2017    :** Department of Computer Science , Hellenic Open University
 
