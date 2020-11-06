@@ -29,8 +29,15 @@ Email   : std138300@ac.eap.gr
 
 **2010 - 2016 :** *IT admin*, Municipality of Amaroussion
 
-> -IT and Digital dept
-
+- IT Admin
+   - Active directory
+   - File server
+   - Pc support
+   
+- Web Admin
+   - Web servers
+   - Mail servers
+   
 ## Technical Skills
 
 | Programming language | level | 
