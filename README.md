@@ -25,7 +25,8 @@ Email   : std138300@ac.eap.gr
 
 **2018 - Present :** *IT expert*
 
-> -IT dept
+1. IT consult
+2. IT Admin
 
 **2010 - 2016 :** *IT admin*, Municipality of Amaroussion
 
