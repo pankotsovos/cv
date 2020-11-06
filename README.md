@@ -31,3 +31,10 @@ Email   : std138300@ac.eap.gr
 
 > -IT and Digital dept
 
+### Technical Skills
+
+| Programming language | level | 
+| ------------- | ------------- | 
+| Java | Very Good | 
+| C++ | Very Good  | 
+| Python  | Good | 
