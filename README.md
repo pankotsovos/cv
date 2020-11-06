@@ -52,4 +52,4 @@ Email   : std138300@ac.eap.gr
 - [x] Arduino
 
 ## Hobbies
-![Image photo](https://cdn.icon-icons.com/icons2/1551/PNG/512/if-traveling-icon-flat-outline08-3405109_107381.png)
+![Image photo](http://www.myiconfinder.com/uploads/iconsets/128-128-c0cf69f3ef6feded92ce448c8caffdc0-camera.png)
